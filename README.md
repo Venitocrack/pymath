@@ -1,1 +1,5 @@
 # pymath
+
+# license : CC BY
+
+
